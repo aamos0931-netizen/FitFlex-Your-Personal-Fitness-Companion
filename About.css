@@ -1,9 +1,9 @@
 .about-container{
 
-    height: 90vh;
+    height: 80vh;
     display: grid;
     align-items: center;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 60% 60%;
 }
 
 
@@ -17,8 +17,8 @@
 
 .about-image img{
 
-    height: 70vh;
-    width: 28vw;
+    height: 80vh;
+    width: 35vw;
     box-shadow: 10px 10px tomato;
     border-radius: 0.3rem;
 }
@@ -38,8 +38,8 @@
 
 .about-text span .about-line{
 
-    height: 2px;
-    width: 50px;
+    height: 4px;
+    width: 60px;
     background-color: tomato;
     margin: 0;
 }
@@ -47,8 +47,8 @@
 .about-text span h5{
     margin: 0;
     font-size: 1.4rem;
-    font-weight: 400;
-    color: tomato;
+    font-weight: 450;
+    color: potato;
     
 }
 
@@ -61,4 +61,5 @@
 .about-text p{
     font-size: 1.2rem;
     color: rgb(62, 62, 62);
+
 }
